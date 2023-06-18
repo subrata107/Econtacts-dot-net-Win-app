@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Econtacts", "Econtacts.csproj", "{65F90875-7DA3-4671-86C0-F32F7D5B250C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "eContactSetup", "..\eContactSetup\eContactSetup.vdproj", "{185C7B12-BFDE-49C2-9CB2-A63932C46FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F90875-7DA3-4671-86C0-F32F7D5B250C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F90875-7DA3-4671-86C0-F32F7D5B250C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F90875-7DA3-4671-86C0-F32F7D5B250C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F90875-7DA3-4671-86C0-F32F7D5B250C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185C7B12-BFDE-49C2-9CB2-A63932C46FF2}.Debug|Any CPU.ActiveCfg = Debug
+		{185C7B12-BFDE-49C2-9CB2-A63932C46FF2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CD24BE-02A1-42D9-B009-5534E35DFF1F}
+	EndGlobalSection
+EndGlobal
